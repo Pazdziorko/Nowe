@@ -7,8 +7,6 @@
     <list default="true" id="e3d7beda-0760-4526-82da-53c49bacc99d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercises/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JdbcMysqlConection/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JdbcMysqlConection/Library/mysql-connector-java-8.0.29.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../JdbcMysqlConection/Library/mysql-connector-java-8.0.29.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JdbcMysqlConection/out/production/JdbcMysqlConnection/ConnectionService.class" beforeDir="false" />
