@@ -18,22 +18,25 @@ public class PrimaryProgram {
            static final String PASS = "pazdziorko1991";
 
            public static void main(String[] args) {
-               Connection conn = null;
-               Statement stmt = null;
+               Connection con = null;
+               Statement stm = null;
+
+
+
                try{
                    //STEP 2: Register JDBC driver
                    Class.forName("com.mysql.cj.jdbc.Driver");
 
                    //STEP 3: Open a connection
                    System.out.println("You are connected to database");
-                   conn = DriverManager.getConnection(DB_URL,USER,PASS);
+                   con = DriverManager.getConnection(DB_URL,USER,PASS);
 
                    //STEP 4: Execute a query
                    System.out.println("Creating statement...");
-                   stmt = conn.createStatement();
+                   stm = con.createStatement();
                    String sql;
                    sql = "SELECT id, per FROM percentage";
-                   ResultSet rs = stmt.executeQuery(sql);
+                   ResultSet rs = stm.executeQuery(sql);
 
                    //STEP 5: Extract data from result set
                    while(rs.next()){
@@ -49,8 +52,8 @@ public class PrimaryProgram {
                    }
                    //STEP 6: Clean-up environment
                    rs.close();
-                   stmt.close();
-                   conn.close();
+                   stm.close();
+                   con.close();
                }catch(SQLException se){
                    //Handle errors for JDBC
                    se.printStackTrace();
@@ -60,13 +63,13 @@ public class PrimaryProgram {
                }finally{
                    //finally block used to close resources
                    try{
-                       if(stmt!=null)
-                           stmt.close();
+                       if(stm!=null)
+                           stm.close();
                    }catch(SQLException se2){
                    }// nothing we can do
                    try{
-                       if(conn!=null)
-                           conn.close();
+                       if(con!=null)
+                           con.close();
                    }catch(SQLException se){
                        se.printStackTrace();
                    }//end finally try

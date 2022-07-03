@@ -1,1 +1,6 @@
 /kurs-java/Excercises/out/
+*.class
+*.xhtml
+*.xml
+*.html
+/.idea

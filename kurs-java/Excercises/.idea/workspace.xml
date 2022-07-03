@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3d7beda-0760-4526-82da-53c49bacc99d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JdbcMysqlConection/Library/mysql-connector-java-8.0.29.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../JdbcMysqlConection/Library/mysql-connector-java-8.0.29.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JdbcMysqlConection/out/production/JdbcMysqlConnection/PrimaryProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JdbcMysqlConection/out/production/JdbcMysqlConnection/PrimaryProgram.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JdbcMysqlConection/src/PrimaryProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JdbcMysqlConection/src/PrimaryProgram.java" afterDir="false" />
@@ -22,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="unknown &lt;https://github.com/pazdziorko/nowe.git&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -175,5 +182,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pliki" />
+    <option name="LAST_COMMIT_MESSAGE" value="pliki" />
   </component>
 </project>
