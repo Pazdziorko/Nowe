@@ -1,12 +1,23 @@
 package exercise;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-
-@Data
-@AllArgsConstructor
 public class User {
+    private int age;
     private String name;
-    private String login;
-    private String password;
+
+    public User(int age, String name) {
+        this.age = age;
+        this.name = name;
+    }
+
+    public boolean canLegalBayAlcohol() {
+        if (age >= 18) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+
 }
+
+
