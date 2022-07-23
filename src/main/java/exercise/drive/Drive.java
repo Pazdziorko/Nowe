@@ -1,4 +1,6 @@
-package exercise;
+package exercise.drive;
+
+import exercise.file.File;
 
 public interface Drive {
     void addFiles(File file);

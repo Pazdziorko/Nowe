@@ -1,4 +1,4 @@
-package exercise.listing7_5;
+package przewodnikdlapoczątkujących.listing7_5;
 
 public class Shape {
     public static void main(String[] args) {

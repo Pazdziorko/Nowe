@@ -1,2 +1,5 @@
-package exercise.file;public enum FileType {
+package exercise.file;
+
+public enum FileType {
+    MUSIC, IMAGE
 }

@@ -1,10 +1,13 @@
-package exercise;
+package exercise.drive;
+
+import exercise.file.File;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 public class HDDDrive implements Drive {
-List<File> files = new ArrayList<>();
+ private List<File> files = new ArrayList<>();
     @Override
     public void addFiles(File file) {
         files.add(file);
@@ -13,12 +16,17 @@ List<File> files = new ArrayList<>();
 
     @Override
     public void listFiles() {
-        files.forEach(System.out::println);
+        for (File file : files){
+            System.out.println(file.getName());
+        }
 
     }
 
     @Override
     public File findFile(String name) {
-        return null;
+        Optional<File> foundFile = files.stream()
+                .filter(file -> file.getName().equals(name))
+                .findFirst();
+        return foundFile.orElseThrow();
     }
 }

@@ -1,2 +1,7 @@
-package exercise.file.musicfile;public interface MusicFile {
+package exercise.file.musicfile;
+
+import exercise.file.File;
+
+public interface MusicFile extends File {
+    void play();
 }

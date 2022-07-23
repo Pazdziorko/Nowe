@@ -1,20 +1,23 @@
 package exercise;
 
+import exercise.drive.Drive;
+import exercise.usbdevice.USBDevice;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class Computer {
-   private Monitor monitor;
-   private Drive drive;
-   private Headphones headphones;
+    private Monitor monitor;
+    private Drive drive;
+    private Headphones headphones;
 
-   List<USBDevice> usbDevices = new ArrayList<>();
+    private List<USBDevice> usbDevices = new ArrayList<>();
 
-   public Computer(Monitor monitor, Drive drive){
+    public Computer(Monitor monitor, Drive drive) {
 
-       this.monitor = monitor;
-       this.drive = drive;
-   }
+        this.monitor = monitor;
+        this.drive = drive;
+    }
 
     public Monitor getMonitor() {
         return monitor;
@@ -43,4 +46,21 @@ public class Computer {
     public List<USBDevice> getUsbDevices() {
         return usbDevices;
     }
+
+    public void addUSBDevice(USBDevice usbDevice) {
+        boolean isConnected = usbDevice.connect();
+        if (isConnected) {
+            usbDevices.add(usbDevice);
+        }
+    }
+
+    public void removeUSBDevice(USBDevice usbDevice) {
+        boolean isDisconnected = usbDevice.disconnect();
+        if (isDisconnected) {
+            usbDevices.remove(usbDevice);
+
+        }
+
+    }
 }
+

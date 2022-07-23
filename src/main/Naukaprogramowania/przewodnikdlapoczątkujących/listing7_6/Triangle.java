@@ -1,4 +1,4 @@
-package exercise.listing7_6;
+package przewodnikdlapoczątkujących.listing7_6;
 
 public class Triangle extends TwoDShape {
     private String style;

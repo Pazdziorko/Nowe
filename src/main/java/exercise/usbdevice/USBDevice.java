@@ -1,2 +1,8 @@
-package exercise.usbdevice;public interface USBDevice {
+package exercise.usbdevice;
+
+public interface USBDevice {
+    boolean connect();
+    boolean disconnect();
+    String getName();
+
 }
