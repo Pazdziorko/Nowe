@@ -37,5 +37,3 @@ _
 ,src/main/java/exercise/listing7_1/Shape.java,7\5\75e53856fb70c297fe778b0b7c5e4bb40a710f60
 P
  src/main/java/exercise/Main.java,a\2\a244cb7dab83e4a326b4445094afcd2528ef8848
-Y
-)src/main/java/exercise/MainTestClass.java,4\3\43eaf6a6a0a254e51120d701c4df86a7c94b0e25
