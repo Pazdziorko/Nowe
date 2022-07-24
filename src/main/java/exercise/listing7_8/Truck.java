@@ -1,5 +1,18 @@
 package exercise.listing7_8;
 
-public class Track extends Vehicle{
-    
+public class Truck extends Vehicle{
+private int cargocap;
+
+Truck(int p, int f, double l, int c){
+    super(p, f, l);
+ cargocap = c;
+}
+
+    public int getCargo() {
+        return cargocap;
+    }
+    public void putCargo(int c){
+    cargocap = c;
+
+    }
 }

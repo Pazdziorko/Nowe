@@ -17,4 +17,27 @@ public class Vehicle {
         return (double) km / 100 * lkm;
     }
 
+    public int getPassengers() {
+        return passengers;
+    }
+
+    public void setPassengers(int p) {
+        this.passengers = p;
+    }
+
+    public int getFuelcap() {
+        return fuelcap;
+    }
+
+    public void setFuelcap(int f) {
+        this.fuelcap = f;
+    }
+
+    public double getLkm() {
+        return lkm;
+    }
+
+    public void setMpg(double l) {
+        this.lkm = l;
+    }
 }
