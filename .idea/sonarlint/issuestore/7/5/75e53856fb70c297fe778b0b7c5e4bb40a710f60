@@ -1,13 +1,0 @@
-
-`
-java:S1192"JDefine a constant instead of duplicating this literal "Area is: " 3 times.(¾Ş›¡
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‚ëüÿÿÿÿ8­äÆÖ¢0
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¥µØ¦
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¾Ş›¡
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(×Â‚
-N	java:S106"9Replace this use of System.out or System.err by a logger.(©ãÎÚ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(¾Ø”ñûÿÿÿÿ
-S	java:S106""9Replace this use of System.out or System.err by a logger.(ˆçœ­øÿÿÿÿ
-Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ıÖÛ¡ıÿÿÿÿ8ı° ‚¢0
