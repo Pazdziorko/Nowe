@@ -26,8 +26,12 @@ i
 i
 9src/main/java/listings/listings1/listing1_2/Example2.java,b\c\bc2f0af7b49313a079dcbbd6dfb601e9c37a864c
 i
-9src/main/java/listings/listings1/listing1_3/Example3.java,c\4\c401f5823b9c7ae594737bc9338491b65910aa5d
-i
 9src/main/java/listings/listings1/listing1_4/GalToLit.java,a\7\a7ff919f77ed32f9d43914835463e845b1120cd4
 g
 7src/main/java/listings/listings1/listing1_5/IfDemo.java,e\1\e1e6fb3e595b2663ccfd339484f5563bba762402
+n
+>src/main/java/listings/listings1/listing1_8/GalToLitTable.java,0\5\05e6eb72cff3817675234191f960a1f1c312931d
+d
+4src/main/java/listings/listings1/exercise9/Moon.java,9\1\9150bbb23af8837c802b18021c92f16df9558fa4
+q
+Asrc/main/java/listings/listings1/exercise10/InchToMeterTable.java,7\5\758185f6c9bd6ff8055fa0c1d96d247e1bf12965
