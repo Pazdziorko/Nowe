@@ -1,0 +1,14 @@
+
+b
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(èÑÁÔøÿÿÿÿ
+b
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(èÑÁÔøÿÿÿÿ
+R
+java:S2589"7Remove this expression which always evaluates to "true"(èÑÁÔøÿÿÿÿ
+_
+java:S2583"DChange this condition so that it does not always evaluate to "false"(èÑÁÔøÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷©Ó
+M	java:S106"9Replace this use of System.out or System.err by a logger.(™¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şÈ—µúÿÿÿÿ

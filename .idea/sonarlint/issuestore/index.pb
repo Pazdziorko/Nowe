@@ -35,3 +35,17 @@ d
 4src/main/java/listings/listings1/exercise9/Moon.java,9\1\9150bbb23af8837c802b18021c92f16df9558fa4
 q
 Asrc/main/java/listings/listings1/exercise10/InchToMeterTable.java,7\5\758185f6c9bd6ff8055fa0c1d96d247e1bf12965
+g
+7src/main/java/listings/listings2/listing2_1/Inches.java,7\2\72f867b32bf2e3fac32500aa86b19d8d187e14ae
+i
+9src/main/java/listings/listings1/listing1_3/Example3.java,c\4\c401f5823b9c7ae594737bc9338491b65910aa5d
+n
+>src/main/java/listings/listings2/listing2_3/CharArithDemo.java,c\3\c3985d35127232a11281ef105bf949224e3dff74
+i
+9src/main/java/listings/listings2/listing2_4/BoolDemo.java,8\3\83485b88ea7a5cdabee2d39d1e8d0ed83cdde0fb
+f
+6src/main/java/listings/listings2/listing2_5/Sound.java,a\b\ab44bdd740b58d7c2da277872eeb9359fc4c5eb3
+h
+8src/main/java/listings/listings2/addexercise/Sound2.java,4\2\42c05572c42b2e6eae4d2b9aa6a4e5f7393bf92b
+f
+6src/main/java/listings/listings2/listing2_2/Hypot.java,3\f\3f72aa67dbe62e362beb8c164f59867cc0a1dfe2
