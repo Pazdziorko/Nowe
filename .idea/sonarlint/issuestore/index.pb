@@ -49,3 +49,15 @@ h
 8src/main/java/listings/listings2/addexercise/Sound2.java,4\2\42c05572c42b2e6eae4d2b9aa6a4e5f7393bf92b
 f
 6src/main/java/listings/listings2/listing2_2/Hypot.java,3\f\3f72aa67dbe62e362beb8c164f59867cc0a1dfe2
+h
+8src/main/java/listings/listings2/listing2_6/StrDemo.java,7\9\79fcdf147c25152f3709eb0f0c9522272de5b656
+h
+8src/main/java/listings/listings2/listing2_7/DynInit.java,6\0\603caa3862cabc216429a0f4e99af9a4a3ad65c4
+j
+:src/main/java/listings/listings2/listing2_8/ScopeDemo.java,3\1\317a6e9b22c725d8eda9195135fefa58609887ec
+l
+<src/main/java/listings/listings2/listing2_9/VarInitDemo.java,c\3\c35a41e577fb298a7f93daa3c3999fe483fd7f73
+i
+9src/main/java/listings/listings2/listing2_11/ModDemo.java,4\d\4d66d7314af662d62d9b6d92a567850eb308ded5
+g
+7src/main/java/listings/listings2/listing2_13/SCops.java,5\0\504f9289268c5444795d9360f59da7e4c7bdc787
