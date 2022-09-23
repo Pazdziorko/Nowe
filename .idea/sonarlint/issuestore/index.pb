@@ -61,3 +61,11 @@ i
 9src/main/java/listings/listings2/listing2_11/ModDemo.java,4\d\4d66d7314af662d62d9b6d92a567850eb308ded5
 g
 7src/main/java/listings/listings2/listing2_13/SCops.java,5\0\504f9289268c5444795d9360f59da7e4c7bdc787
+k
+;src/main/java/listings/listings2/listing2_12/RelLogOps.java,7\2\72a46562fc1f3dc7ecfd4e331f6690ad093604a4
+f
+6src/main/java/listings/listings2/listing2_15/LtoD.java,c\f\cf9823a4a0bfc2673860c324d58d9c336ce3bf2e
+j
+:src/main/java/listings/listings2/listing2_17/CastDemo.java,a\0\a0d0ccde806c390a07c22bf758559cbc7b55d803
+p
+@src/main/java/listings/listings2/listing2_18/LogicalOpTable.java,2\9\29b2022fa12b14b1f84d884c73170bc0cb423e98
