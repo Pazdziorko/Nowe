@@ -69,3 +69,11 @@ j
 :src/main/java/listings/listings2/listing2_17/CastDemo.java,a\0\a0d0ccde806c390a07c22bf758559cbc7b55d803
 p
 @src/main/java/listings/listings2/listing2_18/LogicalOpTable.java,2\9\29b2022fa12b14b1f84d884c73170bc0cb423e98
+e
+5src/main/java/listings/listings3/listing3_1/KbIn.java,f\f\ff0acaa5096283a3c470f84b4636de2de522c4b2
+f
+6src/main/java/listings/listings3/listing3_2/Guess.java,2\b\2bbc29727a0b8d5eb990836964858ddd782d2c5c
+g
+7src/main/java/listings/listings3/listing3_3/Guess2.java,f\1\f17af181c5d86cda8f6908b915b713004df9c820
+g
+7src/main/java/listings/listings3/listing3_4/Guess3.java,b\9\b94386ebd9be24aec0f23631877928c3f61dc5e8
