@@ -77,3 +77,11 @@ g
 7src/main/java/listings/listings3/listing3_3/Guess2.java,f\1\f17af181c5d86cda8f6908b915b713004df9c820
 g
 7src/main/java/listings/listings3/listing3_4/Guess3.java,b\9\b94386ebd9be24aec0f23631877928c3f61dc5e8
+g
+7src/main/java/listings/listings3/listing3_5/Ladder.java,0\f\0f15b8f842df7f3dbcd17d912c51e9ab1fa6381d
+k
+;src/main/java/listings/listings3/listing3_6/SwitchDemo.java,a\7\a74e95f0e02ce1810963720ea8dc2949e69c9238
+h
+8src/main/java/listings/listings3/listing3_7/NoBreak.java,8\9\8907bf3d3c5b1fb43b75fdcfaa2e76e8e49075cb
+e
+5src/main/java/listings/listings3/listing3_8/Help.java,a\f\af0d71b15c29d0d2f60c63421fcb2587fc796ab6
