@@ -85,3 +85,21 @@ h
 8src/main/java/listings/listings3/listing3_7/NoBreak.java,8\9\8907bf3d3c5b1fb43b75fdcfaa2e76e8e49075cb
 e
 5src/main/java/listings/listings3/listing3_8/Help.java,a\f\af0d71b15c29d0d2f60c63421fcb2587fc796ab6
+h
+8src/main/java/listings/listings3/listing3_9/SqrRoot.java,6\8\680156ae0f2410d0bab8c0cfcde2a826825568be
+h
+8src/main/java/listings/listings3/listing3_10/DcrFor.java,3\9\393ea1b80646742a3c0e1e2f71977cc35c95cdb7
+g
+7src/main/java/listings/listings3/listing3_11/Comma.java,b\6\b6e7ea5d1024e5580255e2d0c5a7fcdf2dd42c7c
+i
+9src/main/java/listings/listings3/listing3_12/ForTest.java,c\8\c87adf056e804875a7b10068cafb2c61c4806772
+g
+7src/main/java/listings/listings3/listing3_13/Empty.java,d\d\dd4b1865db334e4de3e578144bafec09be22be67
+h
+8src/main/java/listings/listings3/listing3_14/Empty2.java,b\d\bd46dca59f9325461861843490a3252793e2db4f
+h
+8src/main/java/listings/listings3/listing3_15/Empty3.java,7\4\7409441756bf0786708e194e8f112346c516354e
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+h
+8src/main/java/listings/listings3/listing3_16/ForVar.java,6\c\6c63a90768110cbba34639fe5cb566877af9582e
